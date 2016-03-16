@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-docker build --rm=true -t coppit/filebot-ui . 
+docker build --rm=true -t markcus91/filebot-ui . 
